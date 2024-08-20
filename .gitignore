@@ -1,0 +1,9 @@
+# node modules
+node_modules
+
+# config files
+discogs_config.ts
+tsconfig.json
+
+# csv files
+test-full-version.csv
