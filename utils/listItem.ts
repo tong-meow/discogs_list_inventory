@@ -51,6 +51,7 @@ export async function listItemOnMarketplace(item: any) {
       {
         release_id: item.release_id,
         condition: item.condition,
+        sleeve_condition: item.sleeve_condition,
         price: item.price,
         status: "For Sale",
         comments: item.comments,
